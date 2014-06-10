@@ -1,6 +1,7 @@
 spec/ldap.yml
 .rvmrc
 *.gemspec
+*.gem
 pkg/
 *.swp
 html/
